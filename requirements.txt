@@ -1,0 +1,4 @@
+sanic==0.6.0
+aysclient==0.0.4
+Sanic_GraphQL==1.1.0
+graphene==2.0.dev20170802065539
